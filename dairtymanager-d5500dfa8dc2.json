@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dairtymanager",
+  "private_key_id": "d5500dfa8dc22e0886792a82a74462d91c823780",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQSbuWz03Fu/Ij\nb0W6SDjwFlrO17eV7JNe/8tJicTvLGYxr96nnF7TW22wku1h5rznlunmhAtpMP5c\nHPn+EohzchyWEPx6+MAQiocFmlGAxpFoOnb5Cu63krk8LzUheHN2vMHnK/Nts9db\nHR1T3HGh3/8l4qHK2+ih5ocqtgJDvnZh3XlfnjmRe9xIZNXQyAyK6XV6rhbt3AeU\n1ii7qIt6OKyRiMMa3ooiMGcgkt/69cMg89M5vocux/Cu0e+RV7JH1ggD5XW3fBU3\nwWC0CVY0XFaOhZh0f8VN/BWGn0gdmwIIPexBFoCEN9q5H0oVsONWpl+5Kz87kGlc\n+3aFSt3XAgMBAAECggEACg3BLvBx7Fm8tQBfXOwEX6JHIIuCZMVvvVpYeV7KpJm0\n4zhsbMRmDRcdTQTn2n7/4akv0hqYSvOZfaSdPLlg3Z5xZHl5hj4H7/8fCmJm1HDB\nmAAe4xqCaLMmCg4GBzeD4B2l6ywyUY4K7vPX48yD9HINrr+cY2ywSHuuJmk5PiwP\n+8zt8kqE/M1QWxj1EFxiFkxdBbDXT8xADWtW21ZBelZexFD5Mrb+Sws+CEk0U/hC\nsiEabifopC5+y29+vlAJACABUE3E6tOuLFw8hJQQPNWpBMsorOYb8p4iiT/ThqQH\nfMD+H3Do9B3rQCtaYSHM+Jk8k0q0tMOurz+tVrlKPQKBgQDFKDusEcT0Rouyri6m\nW5XzNqtgwX+7OCK289GTMdmtlANPeGr9iYtbMuILQPxj4nHFhUPa405iI56+D9/d\nZKFL/bUiEcEpfQF5IsH+uzstVausBKHoYlwG6zS8r8ejmorq8+xdZ35BFfAYjrzg\nLLsTGVQ9xzTG18STRizzLfV4DQKBgQC7WgozYLcHuGhDXfw1t/6jbH3Nv3CCaWwS\ncs1ZYCYbcsncpzdOdOtqPqEvFFr/jDgo3W30n4WZZFhuE6zatrCNPhptOvzYy2rw\n19c449WKuqYikQ4glLdqXdc7RhodaHyzOEhQoGlGaKdDzOXYPN9iK6ZwEFTupqeR\naz3Q7zGwcwKBgEKnE2VcrIUYxGmn0UWUeOE8fju7rv8QP0wyqYtlsv2nqGbZgvIr\n6dzvGtRLKAhsqaHpJ8N8TSeIe0Yt/7TNLGqQXwghkHgCNtlJEuSXT65H5D3HYyU4\n+3urUKzpkEiTGpvL0wDQ2DIQxJbIyrnO5X/TdFNeYU1H7MENXGzqAK6RAoGASE17\nWlCc0jHsqvL+foy/jLo14s1a0jl1J7l+Xluo2Tb3iFxQD8s3fw0kj1K/u5eVpM+v\nu5RErun25qRZNR8EC75H3JfDNLdsUf46ZQ4oPx3BN93bId/C2R3WDl4Dfg3w8glq\nfxMpDa8dviC5IzZ6zxwhY2YqIN/YE1rbxGJLPtkCgYBUlibsN+7+PFbBoR3LPE/M\n4NF0yazHuxCIg38hkZJX+R3B2BJbm2Xgiw1HTrANvU2MgVbgffHtyfB+WGXBdKzk\n8F67B8j8pWXLn5BcS+MQBUg+slrEaz5gJKx1vYDK8tYdGC/1O5GsyhDW9vm79OoW\nDRw//3b4a2/wLyqdGbrPsA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "legislators@dairtymanager.iam.gserviceaccount.com",
+  "client_id": "103977748967495600708",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/legislators%40dairtymanager.iam.gserviceaccount.com"
+}
